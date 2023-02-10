@@ -1,0 +1,11 @@
+# Host Config
+parameters:
+
+	# Database
+	database:
+		driver: pdo_sqlite
+		host: test
+		dbname: test
+		user: test
+		password: test
+		port: 12345
